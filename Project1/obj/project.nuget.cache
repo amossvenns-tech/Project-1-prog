@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uy053+Y0UC4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amos.svenns\\Desktop\\Project 1 prog\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amos.svenns\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
